@@ -1,0 +1,22 @@
+*,
+*:before,
+*:after {
+   box-sizing: border-box;
+}
+
+body {
+   margin: 0;
+   font-family: Roboto, sans-serif;
+}
+
+h1 {
+   color: rebeccapurple;
+}
+
+p {
+   color: #626262;
+}
+
+ul {
+   color: #212121;
+}
