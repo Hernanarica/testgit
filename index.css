@@ -6,17 +6,27 @@
 
 body {
    margin: 0;
+   padding: 1rem;
    font-family: Roboto, sans-serif;
 }
 
 h1 {
-   color: rebeccapurple;
+   color: forestgreen;
 }
 
 p {
-   color: #626262;
+   color: #212121;
 }
 
 ul {
    color: #212121;
+   margin: 0;
+   padding: 0;
+   font-weight: 700;
+}
+
+li {
+   padding-inline-start: .5rem;
+   list-style: none;
+   font-weight: 400;
 }
